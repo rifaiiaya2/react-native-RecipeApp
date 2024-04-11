@@ -73,7 +73,5 @@ To get started with the Recipe Social Media App:
 3. Start the app with `npx react-native run-android` or `npx react-native run-ios` depending on your target platform.
 
 For deep linking:
-
->>>>>>> 0028e23ac32913e1f386e2c93311e4cf732976ef
 - Run `npx uri-scheme open "mychat://app/Login"` to open the login screen.
 - Replace `Login` with `SignUp` to access the signup screen directly.
